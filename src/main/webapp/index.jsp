@@ -3,10 +3,10 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Hello Java EE 7 Continuous Delivery!</title>
+        <title>This is sample java demo</title>
     </head>
     <body>
-        <h1>Hello Java EE 7 Continuous Delivery!</h1>
+        <h1>This is sample java demo</h1>
         
         GET all the <a href="${pageContext.request.contextPath}/resources/persons"/>persons</a>.
     </body>
